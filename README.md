@@ -42,3 +42,19 @@ I am living in [Guntur](https://guntur.ap.gov.in/), AP, India
 - _Github Profile_: https://github.com/zakeer
 - [Github Profile](https://github.com/zakeer)
 - [Website](https://zakeer.me/)
+
+
+
+### MyData in JSON Format
+```json
+{
+    "Name"          :   "Zakeer",
+    "City"          :   "Guntur",
+    "Designation"   :   "Developer",
+    "Github Profile":   "https://github.com/zakeer",
+    "website"       :   "https://zakeer.me/",
+    "married"       :   true,
+    "brothers"      :   2,
+    "sisters"       :   2
+}
+```
